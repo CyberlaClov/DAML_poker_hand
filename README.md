@@ -14,8 +14,7 @@ Follow these steps to set up and install the dependencies:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/DAML_project.git
-    cd DAML_project
+    git clone https://github.com/yourusername/DAML_poker_hand.git
     ```
 
 2. **Install dependencies by running following command line:**
