@@ -25,3 +25,4 @@ def linear_transform(data):
         transformed_data[f"color_{color}"] = (data[suit_columns] == color).sum(axis=1)
 
     return transformed_data
+
