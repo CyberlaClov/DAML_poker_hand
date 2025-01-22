@@ -31,7 +31,7 @@ Follow these steps to set up and install the dependencies:
     ./setup.sh
     ```
 
-4. **Run the notebook `Poker-dataset-analysis.ipynb`:**
+4. **Run the notebook `cp-neural-network.ipynb`:**
     
 
 ## Note
